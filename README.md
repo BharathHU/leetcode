@@ -8,6 +8,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BharathHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/BharathHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/BharathHU/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BharathHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1539-kth-missing-positive-number](https://github.com/BharathHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
