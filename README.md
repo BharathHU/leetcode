@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/BharathHU/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BharathHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -52,4 +53,12 @@
 | [0013-roman-to-integer](https://github.com/BharathHU/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/BharathHU/leetcode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
