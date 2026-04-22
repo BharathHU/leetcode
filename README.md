@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BharathHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/BharathHU/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/BharathHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/BharathHU/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -61,4 +62,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/BharathHU/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
