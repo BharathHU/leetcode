@@ -58,6 +58,7 @@
 | [0012-integer-to-roman](https://github.com/BharathHU/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BharathHU/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/BharathHU/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/BharathHU/leetcode/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
