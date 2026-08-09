@@ -61,6 +61,7 @@
 | [0012-integer-to-roman](https://github.com/BharathHU/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BharathHU/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BharathHU/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathHU/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/BharathHU/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/BharathHU/leetcode/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BharathHU/leetcode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
