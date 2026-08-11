@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/BharathHU/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BharathHU/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/BharathHU/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/BharathHU/leetcode/tree/master/0066-plus-one) |
@@ -26,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathHU/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BharathHU/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BharathHU/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/BharathHU/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/BharathHU/leetcode/tree/master/1748-sum-of-unique-elements) |
