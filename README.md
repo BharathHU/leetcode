@@ -31,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/BharathHU/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/BharathHU/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/BharathHU/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -87,6 +88,7 @@
 | [0058-length-of-last-word](https://github.com/BharathHU/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/BharathHU/leetcode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/BharathHU/leetcode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
