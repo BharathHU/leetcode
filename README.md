@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BharathHU/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/BharathHU/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BharathHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -77,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/BharathHU/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BharathHU/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/BharathHU/leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BharathHU/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
