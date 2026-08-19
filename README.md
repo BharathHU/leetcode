@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/BharathHU/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1539-kth-missing-positive-number](https://github.com/BharathHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/BharathHU/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
@@ -37,6 +38,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/BharathHU/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1748-sum-of-unique-elements](https://github.com/BharathHU/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -93,6 +95,7 @@
 | [0067-add-binary](https://github.com/BharathHU/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/BharathHU/leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/BharathHU/leetcode/tree/master/0290-word-pattern) |
+| [0953-verifying-an-alien-dictionary](https://github.com/BharathHU/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Divide and Conquer
 |  |
 | ------- |
