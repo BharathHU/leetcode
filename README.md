@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/BharathHU/leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BharathHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHU/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BharathHU/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/BharathHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@
 | [0005-longest-palindromic-substring](https://github.com/BharathHU/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/BharathHU/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHU/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BharathHU/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Linked List
 |  |
