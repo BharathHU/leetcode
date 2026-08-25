@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHU/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BharathHU/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BharathHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -37,6 +38,7 @@
 | [0036-valid-sudoku](https://github.com/BharathHU/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/BharathHU/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BharathHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/BharathHU/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +50,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/BharathHU/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -66,6 +69,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/BharathHU/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -109,6 +113,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BharathHU/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/BharathHU/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,4 +194,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BharathHU/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
