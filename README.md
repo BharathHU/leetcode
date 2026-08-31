@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHU/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BharathHU/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BharathHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +65,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathHU/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/BharathHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BharathHU/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -82,6 +84,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/BharathHU/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/BharathHU/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BharathHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1539-kth-missing-positive-number](https://github.com/BharathHU/leetcode/tree/master/1539-kth-missing-positive-number) |
