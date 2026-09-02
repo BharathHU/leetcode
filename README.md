@@ -23,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BharathHU/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/BharathHU/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/BharathHU/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BharathHU/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BharathHU/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathHU/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/BharathHU/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/BharathHU/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/BharathHU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## String Matching
 |  |
@@ -209,4 +211,20 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BharathHU/leetcode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHU/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHU/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHU/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BharathHU/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
